@@ -42,7 +42,7 @@ E como observação na validação do modelo, encontramos valores bem diferentes
     <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169609511-57083293-24d7-4740-bed4-72ba77a31926.png"
   </p> 
     
-    ## Percebemos que não existem relações fortes entre os atributos, o que não caracteriza com "BOM" pagador alguem que mora no Estado de São Paulo, por exemplo.
+    **É possível observar por meio da correlação de Spearman, que não é significativo a relação entre as variáveis categóricas.**
 
    # Insights
   <p align="center">
