@@ -8,8 +8,6 @@ Projeto desenvolvido para solução de problema de classificação.
 
 
 # APLICAÇÃO DE TÉCNICAS DE DATA SCIENCE E MACHINE LEARNING EM UM PROBLEMA DE CLASSIFICAÇÃO.
-
-**O que é classificação de clientes?**
   
 Classificar clientes a fim de estabelecer e prever padrões e comportamentos é muito importante para a tomada de decisões de uma empresa e com isso possibilitar a obtenção sempre dos melhores resultados. 
 
