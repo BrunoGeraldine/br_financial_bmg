@@ -3,7 +3,7 @@ Projeto desenvolvido para solução de problema de classificação.
 
 
 <p align="center">
-  <img width="1000" height="200" src="https://user-images.githubusercontent.com/87772120/169603813-8f254444-71c4-4fd6-b49a-9796d8cc06b7.png"
+  <img width="800" height="500" src="https://user-images.githubusercontent.com/87772120/169603813-8f254444-71c4-4fd6-b49a-9796d8cc06b7.png"
 </p> 
 
 
@@ -19,7 +19,7 @@ Observando mais atentamente esse conjunto de dados, observamos um grande desbala
 por isso observaremos as metricas Balanced Accuracy e Kappa Score, metricas mais favoraveis quando temos dados desbalanceados.
 E como observação na validação do modelo, encontramos valores bem diferentes das primeiras observações.
 <p align="center">
-  <img width="1000" height="200" src="https://user-images.githubusercontent.com/87772120/169604513-5479bc30-839e-4a1f-b120-f2ef124bbe4e.png"
+  <img width="100" height="20" src="https://user-images.githubusercontent.com/87772120/169604513-5479bc30-839e-4a1f-b120-f2ef124bbe4e.png"
 </p> 
  
 Conclusão desta analise:
