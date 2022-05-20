@@ -28,7 +28,7 @@ E como observação na validação do modelo, encontramos valores bem diferentes
   
   # Dimensão dos Dados
   <p align="center">
-    <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169609041-a46b33d1-828d-4ccc-a1ca-b7cb6e9ad0c6.png"
+    <img width="700" height="100" src="https://user-images.githubusercontent.com/87772120/169609041-a46b33d1-828d-4ccc-a1ca-b7cb6e9ad0c6.png"
   </p> 
   
   # Detalhe descritivo dos dados
@@ -49,7 +49,7 @@ E como observação na validação do modelo, encontramos valores bem diferentes
     <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169610905-51e93ef3-c421-4deb-95c5-b47a65f58b80.png"
   </p>
 
-    ## Clientes que comprometem menos de 25% da sua renda, são mais propensos a cumprir com os pagamentos!
+    ## Em relação as variáveis numéricas, é possível observar que clientes com rendas mensais altas são mais propensos a serem bons pagadores quando comparados àqueles com renda menor. Além disso, àqueles clientes que comprometem em até 25% da sua renda mensal, tendem a cumprir com os pagamentos quando comparados àqueles que comprometem um valor superior.
        
   <p align="center">
     <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169611307-7b975308-b1ad-4273-9e98-f197bdde37e8.png"
