@@ -28,7 +28,7 @@ E como observação na validação do modelo, encontramos valores bem diferentes
   
   # Dimensão dos Dados
   <p align="center">
-    <img width="700" height="100" src="https://user-images.githubusercontent.com/87772120/169609041-a46b33d1-828d-4ccc-a1ca-b7cb6e9ad0c6.png"
+    <img width="500" height="100" src="https://user-images.githubusercontent.com/87772120/169609041-a46b33d1-828d-4ccc-a1ca-b7cb6e9ad0c6.png"
   </p> 
   
   # Detalhe descritivo dos dados
