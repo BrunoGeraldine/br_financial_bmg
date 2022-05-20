@@ -20,7 +20,7 @@ Observando mais atentamente esse conjunto de dados, observamos um grande desbala
 por isso observaremos as metricas Balanced Accuracy e Kappa Score, metricas mais favoraveis quando temos dados desbalanceados.
 E como observação na validação do modelo, encontramos valores bem diferentes das primeiras observações.
 <p align="center">
-  <img width="700" height="60" src="https://user-images.githubusercontent.com/87772120/169604513-5479bc30-839e-4a1f-b120-f2ef124bbe4e.png"
+  <img width="700" height="100" src="https://user-images.githubusercontent.com/87772120/169604513-5479bc30-839e-4a1f-b120-f2ef124bbe4e.png"
 </p> 
  
   
