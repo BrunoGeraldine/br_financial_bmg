@@ -46,8 +46,9 @@ E como observação na validação do modelo, encontramos valores bem diferentes
 
    # Insights
   <p align="center">
-    <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169610905-51e93ef3-c421-4deb-95c5-b47a65f58b80.png"
+    <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169616382-128fdb5e-62c7-4619-9826-ef167d7197c3.png"
   </p>
+    
 
     ## Em relação as variáveis numéricas, é possível observar que clientes com rendas mensais altas são mais propensos a serem bons pagadores quando comparados àqueles com renda menor. Além disso, àqueles clientes que comprometem em até 25% da sua renda mensal, tendem a cumprir com os pagamentos quando comparados àqueles que comprometem um valor superior.
        
