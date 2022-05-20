@@ -22,6 +22,39 @@ E como observação na validação do modelo, encontramos valores bem diferentes
   <img width="700" height="60" src="https://user-images.githubusercontent.com/87772120/169604513-5479bc30-839e-4a1f-b120-f2ef124bbe4e.png"
 </p> 
  
+  
+# Analise Descitiva dos Dados
+  
+  # Dimensão dos Dados
+  <p align="center">
+    <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169609041-a46b33d1-828d-4ccc-a1ca-b7cb6e9ad0c6.png"
+  </p> 
+  
+  # Detalhe descritivo dos dados
+  <p align="center">
+    <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169609224-8c4d2676-481d-470a-8ba2-ce0d99dda2c7.png"
+  </p> 
+
+  # Correlação entre as variaveis categoricas
+    
+  <p align="center">
+    <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169609511-57083293-24d7-4740-bed4-72ba77a31926.png"
+  </p> 
+    
+    ## Percebemos que não existem relações fortes entre os atributos, o que não caracteriza com "BOM" pagador alguem que mora no Estado de São Paulo, por exemplo.
+
+   # Insights
+  <p align="center">
+    <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169610905-51e93ef3-c421-4deb-95c5-b47a65f58b80.png"
+  </p>
+
+    ## Clientes que comprometem menos de 25% da sua renda, são mais propensos a cumprir com os pagamentos!
+       
+  <p align="center">
+    <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169611307-7b975308-b1ad-4273-9e98-f197bdde37e8.png"
+  </p>
+
+ 
 Conclusão desta analise:
 Num problema de classificação, a qualidade dos dados é muito importante, não sçao os tipos de variavéis mas também seu volume.
 
@@ -59,26 +92,4 @@ Alguns tipos comuns de inicialização de camada incluem:
 - “ *zero*
     
     “: Todos os pesos são definidos para valores zero.
-  
-# Analise Descitiva dos Dados
-  
-  # Dimensão dos Dados
-  <p align="center">
-    <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169609041-a46b33d1-828d-4ccc-a1ca-b7cb6e9ad0c6.png"
-  </p> 
-  
-  # Detalhe descritivo dos dados
-  <p align="center">
-    <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169609224-8c4d2676-481d-470a-8ba2-ce0d99dda2c7.png"
-  </p> 
-
-  # Correlação entre as variaveis categoricas
-    
-  <p align="center">
-    <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169609511-57083293-24d7-4740-bed4-72ba77a31926.png"
-  </p> 
-    
-    ## **Percebemos que não existem relações fortes entre os atributos, o que não caracteriza com "BOM" pagador alguem que mora no Estado de São Paulo, por exemplo.**
-
-    
 
