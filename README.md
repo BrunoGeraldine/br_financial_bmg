@@ -10,6 +10,7 @@ Projeto desenvolvido para solução de problema de classificação.
 # APLICAÇÃO DE TÉCNICAS DE DATA SCIENCE E MACHINE LEARNING EM UM PROBLEMA DE CLASSIFICAÇÃO.
 
 **O que é classificação de clientes?**
+  
 Podemos definir o que é classificação de clientes como o ato de separá-los com base em critérios específicos. Essa formação de grupos é feita baseando-se em características e comportamentos semelhantes, a fim de personalizar as ações de marketing e as abordagens comerciais e de negocios.
 
 Esse projeto explora o conceito de análise de dados com Ciência dos Dados (Data Science) ao utilizar Aprendizado de Máquina (Machine Learning) para resolver o problema de classificação para definição do comportamento de clientes de uma financeira de modo que apresenta um norte sobre aprovação de credito. A composição do dataset está dividida em 11994 observações e 19 atributos incluindo os dados sobre o "score" já conhecido dos clientes. Com isso, a pesquisa foca em desenvolver algoritmos de Aprendizado de Máquina que resolvam o problema de classificação para prever se o cliente irá cumprir com os prazos e pagamentos estabelecidos na proposta de financeiamento. 
