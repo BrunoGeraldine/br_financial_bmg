@@ -64,18 +64,18 @@ Alguns tipos comuns de inicialização de camada incluem:
   
   # Dimensão dos Dados
   <p align="center">
-    <img width="700" height="60" src="https://user-images.githubusercontent.com/87772120/169609041-a46b33d1-828d-4ccc-a1ca-b7cb6e9ad0c6.png"
+    <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169609041-a46b33d1-828d-4ccc-a1ca-b7cb6e9ad0c6.png"
   </p> 
   
   # Detalhe descritivo dos dados
   <p align="center">
-    <img width="700" height="60" src="https://user-images.githubusercontent.com/87772120/169609224-8c4d2676-481d-470a-8ba2-ce0d99dda2c7.png"
+    <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169609224-8c4d2676-481d-470a-8ba2-ce0d99dda2c7.png"
   </p> 
 
   # Correlação entre as variaveis categoricas
     
   <p align="center">
-    <img width="700" height="60" src="https://user-images.githubusercontent.com/87772120/169609511-57083293-24d7-4740-bed4-72ba77a31926.png"
+    <img width="1000" height="500" src="https://user-images.githubusercontent.com/87772120/169609511-57083293-24d7-4740-bed4-72ba77a31926.png"
   </p> 
     
     ## **Percebemos que não existem relações fortes entre os atributos, o que não caracteriza com "BOM" pagador alguem que mora no Estado de São Paulo, por exemplo.**
